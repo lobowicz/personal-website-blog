@@ -419,9 +419,10 @@ You have two deployment options:
 ### Getting a Domain
 
 **Popular registrars:**
-- **Namecheap:** ~$8-12/year, good customer service
-- **Cloudflare:** ~$8-10/year, excellent DNS performance
-- **Google Domains (Squarespace):** ~$12/year, integrated with Google services
+- **Namecheap:** ~$8-12/year
+- **Cloudflare:** ~$8-10/year
+- **Google Domains (Squarespace):** ~$12/year
+- **GoDaddy:** ~$12/year
 
 ### Connecting Your Domain
 
